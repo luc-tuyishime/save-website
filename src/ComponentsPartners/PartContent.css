@@ -1,0 +1,13 @@
+.partners-padding {
+    padding-top: 20px;
+
+    font: 20px "greatest-medium";
+
+    color: #3b3e59;
+}
+
+@media only screen and (max-width : 768px) {
+    .text-partner-small {
+        padding: 15px;
+    }
+}

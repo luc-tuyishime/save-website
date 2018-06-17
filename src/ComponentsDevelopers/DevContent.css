@@ -1,0 +1,54 @@
+.integration-text {
+    padding-top: 12px;
+
+    font: 16px greatests;
+
+    color: #3b3e59;
+}
+
+.integration-text2 {
+    padding-top: 44px;
+
+    font: 16px greatests;
+
+    color: #3b3e59;
+}
+
+.text-child-dev {
+    font: 13px greatest;
+    line-height: 25px;
+
+    color: #3b3e59;
+}
+
+.dev-margin {
+    padding-top: 35px;
+    padding-bottom: 75px;
+    padding-left: 45px;
+}
+
+@media only screen and (max-width : 768px) {
+    .dev-margin {
+        padding-top: 35px;
+        padding-bottom: 75px;
+        padding-left: 0 !important;
+    }
+    .dev-img-integration {
+        display: block;
+        width: 78px;
+        margin: 0 auto;
+    }
+    .integration-text {
+        text-align: center;
+    }
+
+    .dev-text {
+        text-align: center;
+    }
+
+    .integration-text2 {
+        font: 15px !important;
+
+        text-align: center;
+    }
+}

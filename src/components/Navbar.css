@@ -1,0 +1,104 @@
+@font-face {
+    font-family: greatest;
+
+    src: url(../font/GOTHAM-LIGHT.TTF);
+}
+
+@font-face {
+    font-family: greatests;
+
+    src: url(../font/GOTHAM-BOLD.TTF);
+}
+@font-face {
+    font-family: greatest-medium;
+
+    src: url(../font/GOTHAM-MEDIUM.TTF);
+}
+
+
+.navbar-nav > li {
+    padding-top: 18px;
+    padding-right: 15px;
+    padding-bottom: 13px;
+    padding-left: 15px;
+}
+
+.navbar-nav > .nav-item > .nav-link:hover {
+    color: #3b3e59;
+}
+
+.navbar-brand {
+    color: #3b3e59;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 2;
+}
+
+.nav-link {
+    font: 15px greatests;
+
+    color: #3b3e59;
+}
+
+.logo-blue {
+    display: none;
+}
+
+@media only screen and (max-width : 768px) {
+    /* .navbar-collapse {
+    background: #bbdefb;
+}
+ */
+    .navbar-collapse {
+        color: black !important;
+        background-color: #fff;
+    }
+    .navbar-light {
+        padding-top: 10px;
+        padding-bottom: 5px;
+
+        font: 23px greatests;
+    }
+
+    .collapse .nav .active a:hover {
+        color: #a9b7c0;
+        background-color: #efd9c1;
+    }
+    .save-logo {
+        padding-top: 10px !important;
+        padding-bottom: 5px !important;
+    }
+    .save-logo {
+        display: none;
+    }
+
+    .logo-blue {
+        display: block;
+        height: 37px;
+    }
+}
+
+.save-logo {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.navbar-collapse > ul {
+    text-align: center;
+}
+
+
+
+.shadow-header {
+    box-shadow: 0 0 10px rgba(0, 0, 0, .22);
+}
+
+.toggle-bar2 {
+    font-size: 28px;
+
+    color: #199ab1 !important;
+}

@@ -1,0 +1,107 @@
+@font-face {
+    font-family: greatest;
+
+    src: url(../font/GOTHAM-LIGHT.TTF);
+}
+
+@font-face {
+    font-family: greatests;
+
+    src: url(../font/GOTHAM-BOLD.TTF);
+}
+
+.text-1 {
+    color: #199ab1;
+}
+.jumbo-container {
+    height: 100%;
+}
+
+.jumbo1 {
+    height: 100vh;
+
+    color: black;
+    background-color: white;
+    background-image: url(../images/test5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+.base-home {
+    position: relative;
+    bottom: 35%;
+}
+
+
+.home-title {
+    display: table-cell;
+
+    font: 36px greatest;
+
+    vertical-align: middle;
+
+    color: #199ab1;
+}
+
+
+.home-subtitle {
+    display: block;
+    margin-bottom: 15px;
+
+    font: 14.90px greatest;
+
+    color: #3b3e59;
+}
+.subtitle-content {
+    margin-top: 20px;
+}
+
+#small-screen {
+    display: none;
+}
+
+@media only screen and (max-width : 780px) {
+    #small-screen {
+        display: block;
+    }
+
+    .jumbo1 {
+        display: none;
+    }
+    .phone-save-pic {
+        width: 100%;
+        height: auto;
+    }
+    .home-title-landscape {
+        font: 36px greatest;
+
+        color: #199ab1;
+    }
+    .adjust-bottom {
+        padding-bottom: 55px;
+    }
+}
+
+.small-jumbo {
+    padding-top: 100px;
+}
+
+
+
+@media (min-height: 680px) and (orientation: landscape) {
+    .style-landscape {
+        color: red!important;
+    }
+    .home-title-landscape {
+        font: 36px greatest;
+
+        color: #199ab1;
+    }
+}
+
+.home-padding {
+    padding-bottom: 12px;
+}

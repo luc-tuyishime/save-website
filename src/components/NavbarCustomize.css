@@ -1,0 +1,28 @@
+.nav-white {
+    background-color: white;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.08);
+}
+.test1 {
+    cursor: pointer;
+}
+
+.toggle-bar2 {
+    font-size: 28px;
+
+    color: #199ab1 !important;
+}
+
+.logo-blue {
+    display: none;
+}
+
+@media only screen and (max-width : 768px) {
+    .save-logo {
+        display: none;
+    }
+
+    .logo-blue {
+        display: block;
+        height: 37px;
+    }
+}

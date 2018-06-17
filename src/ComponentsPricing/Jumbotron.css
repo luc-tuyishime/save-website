@@ -1,0 +1,27 @@
+ .jumbo-pricing {
+    margin-top: -145px;
+
+    color: black;
+    background-color: white;
+    background-image: url(../images/shape2.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.card-pricing {
+    border-radius: 14px;
+}
+@media only screen and (max-width : 500px) {
+    .jumbo-pricing {
+        height: 600px;
+        margin-top: -165px;
+
+        color: black;
+        background-color: white;
+        background-image: url(../images/shape2.svg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+}

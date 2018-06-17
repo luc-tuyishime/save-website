@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="443px" viewBox="0 0 1280 443" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="2.54610249%" y1="-46.4423874%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#61E3EB" offset="0%"></stop>
+            <stop stop-color="#32C3D3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Styled-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(0.000000, -2.000000)" fill="url(#linearGradient-1)">
+            <path d="M0.187142305,343.185416 L-4,343.185416 C275.113664,406.974249 480.949041,440.581847 613.506131,444.008213 C853.512528,450.211953 1110.06461,408.454228 1278.74725,344.048906 L1280.00015,344.048906 L1280.00015,343.569502 C1280.33378,343.441558 1280.66706,343.313532 1281,343.185416 L1280.00015,343.185416 L1280.00015,2 L0.187142305,2 L0.187142305,343.185416 Z" id="Combined-Shape-Copy"></path>
+        </g>
+    </g>
+</svg>

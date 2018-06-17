@@ -1,0 +1,79 @@
+@font-face {
+    font-family: greatest;
+
+    src: url(../font/GOTHAM-LIGHT.TTF);
+}
+
+.terms-bg-color {
+    background: #f3fafb;
+}
+
+@font-face {
+    font-family: greatests;
+
+    src: url(../font/GOTHAM-BOLD.TTF);
+}
+@font-face {
+    font-family: greatest-medium;
+
+    src: url(../font/GOTHAM-MEDIUM.TTF);
+}
+
+.text-terms {
+    font: 36px greatest-medium;
+}
+
+.term-img-show2 {
+    display: none;
+}
+
+@media only screen and (max-width : 768px) {
+    .term-img-show2 {
+        display: block;
+        padding-top: 40px;
+    }
+    .term-img-show {
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .text-terms {
+        padding-top: 50px;
+
+        font: 24px greatest-medium;
+    }
+    .img-padding-term {
+        padding-top: 30px;
+    }
+}
+
+/*coming soon*/
+.soon-img {
+    width: 150%;
+    height: auto;
+}
+.soon-img2 {
+    width: 100%;
+    height: auto;
+    padding-top: 50px;
+}
+
+
+.soon-contain {
+    height: 100vh;
+}
+
+.title__coming__soon {
+    font: 36px greatest;
+
+    color: #ff007a;
+}
+.subtitle__coming__soon {
+    font: 14.90px greatest;
+    line-height: 200%;
+
+    color: #3b3e59;
+}
+.subtitle__bold {
+    font-weight: bold;
+}

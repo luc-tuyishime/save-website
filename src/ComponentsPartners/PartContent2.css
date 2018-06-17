@@ -1,0 +1,30 @@
+.partners-img {
+    width: 100%;
+    height: auto;
+}
+
+.part-container2 {
+    padding-top: 90px;
+    padding-bottom: 130px;
+}
+
+.term-text-left.selected {
+    color: #3b3e59;
+}
+
+.category-partner {
+    font: 18px greatests;
+
+    color: #199ab1;
+}
+
+@media only screen and (max-width : 768px) {
+    .category-partner {
+        font: 17px greatests;
+
+        color: #199ab1;
+    }
+}
+.partner-text {
+    font: 13px!important;
+}

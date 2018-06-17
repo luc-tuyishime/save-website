@@ -1,0 +1,67 @@
+ .contact-us-background {
+    z-index: 2;
+
+    height: 30vh;
+
+    background-color: white;
+    background-image: url(../images/dots22.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+
+
+
+.contact-us-text-parent {
+    font: 16px greatests;
+
+    text-align: center;
+
+    color: #3b3e59;
+}
+
+.contact-us-text-child {
+    font: 16px greatest;
+    line-height: 25px;
+
+    text-align: center;
+
+    color: #3b3e59;
+}
+.btn-contact-us {
+    display: block;
+    height: 40px;
+    margin: 0 auto;
+
+    font: 10px greatests;
+    line-height: 30px;
+
+    color: #fff;
+    border: 1px solid #19b164;
+    border-radius: 100px;
+    background: #19b164;
+}
+
+.btn-contact-us:hover {
+    cursor: pointer;
+
+    border: 1px solid #19b164;
+    background: #19b164 !important;
+    box-shadow: 0 9px 15px 0 rgba(0,0,0,.17);
+}
+
+.main-contact-div {
+    padding-top: 300px;
+}
+
+.btn-text2 {
+    height: 90px;
+    padding: 25px;
+
+    line-height: 30px;
+}
+
+
+@media only screen and (max-width : 768px) {
+}

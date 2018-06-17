@@ -1,0 +1,81 @@
+.nav-white-pricing {
+    border-color: transparent;
+    background-color: white;
+    background-image: url(../images/shape.png);
+}
+
+
+
+.nav-link-pricing {
+    font: 14px greatests;
+
+    color: #fff !important;
+}
+
+.nav-link-pricing:hover {
+    color: #3b3e59;
+}
+
+
+
+
+.fixed-top.scrolled {
+    transition: background-color 200ms linear;
+
+    background-color: #fff !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .22);
+}
+
+.fixed-top.scrolled .nav-link {
+    color: #555 !important;
+}
+
+.fixed-top.scrolled > .img-logo {
+    background: #555;
+}
+
+.img-2-hide {
+    display: none;
+}
+
+@media only screen and (max-width : 768px) {
+    .nav-link-pricing {
+        margin-left: 8px;
+
+        font: 14px greatests;
+
+        color: #424242 !important;
+    }
+    .collapse-pricing {
+        width: 100%;
+
+        border-radius: 5px;
+        background: #fff!important;
+    }
+}
+
+button > .navbar-toggler > .navbar-light {
+    border-color: yellow !important;
+}
+
+.navbar-toggler {
+    outline: none !important;
+}
+
+span > .navbar-toggler-icon {
+    color: #fff !important;
+}
+
+.style-bar {
+    font-size: 28px;
+
+    color: #fff !important;
+}
+
+.hide-bar2 {
+    display: none;
+
+    font-size: 28px;
+
+    color: #3b3e59 !important;
+}

@@ -1,0 +1,157 @@
+.got-question-text-parent {
+    font: 36px greatest;
+
+    text-align: center;
+
+    color: #199ab1;
+}
+.list-inline-item {
+    font: 90% greatests;
+
+    color: #3b3e59;
+}
+
+.got-question-padding {
+    padding-top: 60px;
+}
+.topic-parent {
+    font: 18px greatests;
+
+    color: #199ab1;
+}
+.topic-child {
+    padding-top: 8px;
+}
+
+.topic-child > p {
+    font: 16px greatests;
+
+    color: #c0c1d2;
+}
+.accordion-header {
+    cursor: pointer;
+
+    outline: none;
+}
+.header-question {
+    font: 16px greatest-medium;
+
+    color: #3b3e59;
+}
+.accordion-margin {
+    padding-top: 20px;
+}
+.accordion-child {
+    margin-top: 5px;
+
+    font: 16px greatest;
+    line-height: 25px;
+
+    color: #3b3e59;
+}
+
+.accor-img {
+    color: #199ab1;
+}
+
+.wrapper:after {
+    position: absolute;
+    top: 0;
+    left: 70%;
+
+    display: block;
+    width: 2px;
+    height: 280px;
+
+    content: "";
+
+    background-color: #eee ;
+}
+
+.topic-child-list {
+    cursor: pointer;
+}
+
+
+
+.padding-justify-bottom {
+    padding-bottom: 180px;
+}
+
+.got-question-text-parent {
+    padding-top: 110px;
+}
+
+@media only screen and (max-width : 768px) {
+    .wrapper:after {
+        display: none;
+    }
+    .text-question-padding {
+        padding-right: 30px;
+        padding-bottom: 50px;
+        padding-left: 30px;
+    }
+    .header-question {
+        font: 16px greatest-medium;
+
+        color: #3b3e59;
+    }
+
+    .panel-default {
+        margin-left: 10px;
+    }
+
+
+    .topic-phone {
+        text-align: center;
+    }
+
+    div > .bg-phone {
+        position: relative;
+        top: 40px;
+
+        background: url(../images/question.svg);
+        background-size: cover;
+    }
+
+    .got-question-text-parent {
+        padding: 35px !important;
+    }
+
+    .got-question-text-parent {
+        font: 20px greatest;
+        line-height: 25px;
+
+        text-align: center;
+
+        color: #199ab1;
+    }
+}
+
+
+.topic-child-list.selected {
+    position: relative;
+
+    color: #199ab1;
+}
+
+
+.fa-plus {
+    vertical-align: middle;
+
+    color: #199ab1;
+}
+.fa-minus {
+    vertical-align: middle;
+
+    color: #199ab1;
+}
+a.faq-links {
+    font: 10px greatest;
+}
+.faq-links:hover {
+    text-decoration: none;
+}
+.faq-links:focus {
+    text-decoration: none;
+}

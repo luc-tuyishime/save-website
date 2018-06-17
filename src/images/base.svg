@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="649px" height="207px" viewBox="0 0 649 207" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Base Shaddow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Styled-Websites" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-page" transform="translate(-606.000000, -417.000000)">
+            <g id="Base-Shaddow" transform="translate(607.000000, 417.000000)">
+                <path d="M323.5,195.657431 C483.93872,195.657431 614,154.320457 614,103.328716 C614,52.336974 483.93872,11 323.5,11 C163.06128,11 33,52.336974 33,103.328716 C33,154.320457 163.06128,195.657431 323.5,195.657431 Z" id="Oval" fill="#199AB1" opacity="0.0614809783"></path>
+                <path d="M323.5,200.742662 C492.775276,200.742662 630,157.128953 630,103.328716 C630,49.5284788 492.775276,5.91476953 323.5,5.91476953 C154.224724,5.91476953 17,49.5284788 17,103.328716 C17,157.128953 154.224724,200.742662 323.5,200.742662 Z" id="Oval" fill="#199AB1" opacity="0.0614809783"></path>
+                <path d="M323.5,206.145719 C502.164117,206.145719 647,160.112979 647,103.328716 C647,46.5444526 502.164117,0.511712163 323.5,0.511712163 C144.835883,0.511712163 0,46.5444526 0,103.328716 C0,160.112979 144.835883,206.145719 323.5,206.145719 Z" id="Oval" stroke="#199AB1" opacity="0.123358243"></path>
+            </g>
+        </g>
+    </g>
+</svg>
