@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.1.1",
     "jquery": "^3.2.1",
     "jsxbeautifier": "^1.0.5",
     "link-react": "^3.0.0",
@@ -24,6 +25,7 @@
     "react-scroll": "^1.7.3",
     "react-show-more": "^1.1.1",
     "react-toggle-display": "^2.2.0",
+    "reactstrap": "^6.2.0",
     "really-smooth-scroll": "^2.1.1",
     "socket.io": "^2.0.4"
   },
