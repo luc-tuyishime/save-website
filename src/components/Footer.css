@@ -26,68 +26,64 @@
  */
 
 footer {
-    color: white;
+  color: white;
 }
 footer a {
-    color: #bfffff;
+  color: #bfffff;
 }
 footer a:hover {
-    color: white;
+  color: white;
 }
 
-
 .footer-top {
-    background: #f9f9fa ;
+  background: #f9f9fa;
 }
 
 .footer-logo-padding {
-    padding-top: 30px;
-    padding-bottom: 10px;
+  padding-top: 30px;
+  padding-bottom: 10px;
 }
 
 /**Sub Navigation**/
 .nav-footer {
-    font: 12px greatest !important;
+  font: 12px greatest !important;
 }
-
 
 .nav-footer:hover {
-    font: 12.50px greatest !important;
+  font: 12.5px greatest !important;
 
-    color: #199ab1 !important;
+  color: #199ab1 !important;
 }
-
 
 .text-footer-second {
-    font: 8.4px greatest;
+  font: 8.4px greatest;
 }
-.exuus-style {
-    font-weight: bold;
-}
-
-@media only screen and (max-width : 768px) {
-    .list-inline {
-        text-align: center;
-
-        align-items: justify-content;
-    }
-    .main-footer {
-        padding-bottom: 30px;
-    }
+.exuus-style a {
+  font-weight: bold !important;
+  color: #616161 !important;
 }
 
+@media only screen and (max-width: 768px) {
+  .list-inline {
+    text-align: center;
 
+    align-items: justify-content;
+  }
+  .main-footer {
+    padding-bottom: 30px;
+  }
+}
 
 .list-inline > li > .nav-link:hover {
-    font-weight: bold;
+  font-weight: bold;
 
-    color: #757575;
+  color: #757575;
 }
 
 ul > li {
-    margin: -10px;
+  margin: -10px;
 }
 
 .footer-title {
-    padding-top: 14px;
+  padding-top: 14px;
 }

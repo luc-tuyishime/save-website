@@ -47,7 +47,7 @@ class Price extends Component{
                                         <div className="scroll-div" id="scroll-style">
                                             <div className="list-pricing">
                                                 <div className="clearfix mx-auto">
-                                                    <span className="text-clearfix">0-10k  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   $0.06/user</span>
+                                                    <span className="text-clearfix">0-50k  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   $0.06/user</span>
                                                 </div>
                                                 <div className="clearfix mx-auto">
                                                     <span className="text-clearfix">50k-500k &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   $0.04/user</span>
@@ -252,6 +252,7 @@ class Price extends Component{
 
 
 export default Price
+
 
 
 
